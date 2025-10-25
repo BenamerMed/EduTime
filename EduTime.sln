@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "edutime.client", "edutime.client\edutime.client.esproj", "{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduTime.Server", "EduTime.Server\EduTime.Server.csproj", "{232761BA-4308-4D70-A14A-36DA0D3C5FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8348FB8D-B2FF-56F0-B4EA-82908D18CEB8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{232761BA-4308-4D70-A14A-36DA0D3C5FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232761BA-4308-4D70-A14A-36DA0D3C5FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232761BA-4308-4D70-A14A-36DA0D3C5FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232761BA-4308-4D70-A14A-36DA0D3C5FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C31D4A0-4AD8-46E3-9788-3239DCE50594}
+	EndGlobalSection
+EndGlobal
